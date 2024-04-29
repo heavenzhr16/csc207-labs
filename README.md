@@ -6,3 +6,4 @@ Class Description:
 An introduction to the ideas and practices of object-oriented computation: message passing, information hiding, classes and interfaces, inheritance, polymorphism, and reflection. 
 The course also includes data structures and the associated algorithms, packages and libraries, exceptions, and the use of an integrated software-development environment. Includes formal laboratory work.
 
+https://catalog.grinnell.edu/preview_course_nopop.php?catoid=20&coid=43992
